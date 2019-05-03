@@ -3,5 +3,5 @@ module.exports = {
   BLUE: {hue: 70, saturation: 100},
   WHITE: {hue: 79, saturation: 7},
   RED: {hue: 10, saturation: 100},
-  GREEN: {hue: 80, saturation: 100}
+  GREEN: {hue: 12, saturation: 100}
 };
